@@ -51,8 +51,8 @@ In this project, I prioritized clean code and a scalable folder structure:
 Clone the repo
 
 ```
-git clone https://github.com/dzung-min/shop-react.git
-cd shop-react
+git clone https://github.com/dzung-min/boutique-ecom-react.git
+cd boutique-ecom-react
 ```
 
 Install NPM packages
