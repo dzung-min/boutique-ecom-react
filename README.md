@@ -2,6 +2,10 @@
 
 A sleek, fast, and responsive e-commerce web application built with React and Redux Toolkit. This project focuses on a seamless user experience and clean state management.
 
+## 📸 Screenshots
+
+![Screen cast](https://i.ibb.co/KjsVKSVj/Recording.gif)
+
 ## 🌐 Live Demo
 
 Check out the live site **[here](https://store-a1c62.web.app)**
@@ -66,12 +70,3 @@ Start the development server
 ```
 npm start
 ```
-
-## 📸 Screenshots
-
-![Homepage_1](https://i.ibb.co/93gXZ69f/Screenshot-From-2026-02-05-17-30-14.png)
-![Homepage_2](https://i.ibb.co/DgT2HzTn/Screenshot-From-2026-02-05-17-30-37.png)
-![Category_1](https://i.ibb.co/TDcpzj97/Screenshot-From-2026-02-05-17-31-20.png)
-![Info](https://i.ibb.co/MDcxnpgv/Screenshot-From-2026-02-05-17-32-06.png)
-![Description](https://i.ibb.co/rfwMGDRw/Screenshot-From-2026-02-05-17-32-16.png)
-![Cart](https://i.ibb.co/d44pChWT/Screenshot-From-2026-02-05-17-32-54.png)
