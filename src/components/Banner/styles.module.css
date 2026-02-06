@@ -9,7 +9,7 @@
 .hero {
   position: absolute;
   left: 100px;
-  top: 130px;
+  top: 100px;
   text-transform: uppercase;
   width: 300px;
 }
@@ -38,4 +38,22 @@
   color: white;
   font-weight: 400;
   cursor: pointer;
+}
+
+@media screen and (max-width: 1024px) {
+  .hero {
+    top: 60px;
+  }
+
+  .hero :first-child {
+    font-size: 1rem;
+  }
+
+  .hero :nth-child(2) {
+    font-size: 1.6rem;
+  }
+
+  .hero button {
+    padding: 10px;
+  }
 }
