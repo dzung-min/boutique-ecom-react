@@ -25,7 +25,7 @@ function Categories() {
         <div onClick={categorySelectHandler.bind(null, "iphone")}>
           <img src={product_1} alt="product_1" />
         </div>
-        <div onClick={categorySelectHandler.bind(null, "macbook")}>
+        <div className="size-1" onClick={categorySelectHandler.bind(null, "macbook")}>
           <img src={product_2} alt="product_2" />
         </div>
         <div onClick={categorySelectHandler.bind(null, "ipad")}>
